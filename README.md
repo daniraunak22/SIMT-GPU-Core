@@ -6,7 +6,7 @@ Below is a step-by-step walkthrough of how the project was developed, with each 
 
 ## Step 1 — Top-Level Overview
 
-![Image 1](SIMT-GPU-Core/Top_Level_Overview.png)
+![Image 1](Top_Level_Overview.png)
 
 The project started with a simple top-level overview of the GPU SM. At this stage, I created a high-level block diagram with major functional units: the 5-stage pipeline, warp scheduler, and memory subsystem. No internal signals were drawn yet—this diagram served as a conceptual starting point to organize the design.
 
